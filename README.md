@@ -2,7 +2,7 @@
 
 This project get your camera data, then translates it into combinations that you can put into the game
 
-![Video](https://cdn.discordapp.com/attachments/1206315080648495124/1207230332437274624/IMG_7083.mov?ex=66d4c39c&is=66d3721c&hm=bf7be39b7485317ac8db124347d138a2e2d3393a0b73c2de8b52a181504a9a74&)
+[Working Video](https://cdn.discordapp.com/attachments/1206315080648495124/1207230332437274624/IMG_7083.mov?ex=66d4c39c&is=66d3721c&hm=bf7be39b7485317ac8db124347d138a2e2d3393a0b73c2de8b52a181504a9a74&)
 
 # How to run the project
 
